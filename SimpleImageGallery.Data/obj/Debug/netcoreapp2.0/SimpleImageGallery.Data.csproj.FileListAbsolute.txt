@@ -1,0 +1,9 @@
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.deps.json
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.dll
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.csprojResolveAssemblyReference.cache
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.csproj.CoreCompileInputs.cache
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.AssemblyInfoInputs.cache
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.AssemblyInfo.cs
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.pdb
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.dll
+D:\Paul\Apps\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp2.0\SimpleImageGallery.Data.pdb
